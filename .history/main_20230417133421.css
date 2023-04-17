@@ -1,0 +1,17 @@
+body {
+  background-color: lightpink;
+}
+.profilePic {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 400px;
+}
+
+.name {
+  text-align: center;
+  font-family: 'Chivo Mono', monospace;
+  color:#FDFDBD;
+  ed
+}
