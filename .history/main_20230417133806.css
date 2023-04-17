@@ -1,0 +1,24 @@
+body {
+  background-color: lightpink;
+}
+.profilePic {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 200px;
+}
+
+.name {
+  text-align: center;
+  font-family: 'Chivo Mono', monospace;
+  color:#FDFDBD;
+  -webkit-text-stroke: black 1px;
+}
+
+.telephoneNumber {
+  text-align: center;
+  font-family: 'Chivo Mono', monospace;
+  color:grey;
+  
+}

@@ -1,0 +1,7 @@
+body {
+  background-color: lightpink;
+}
+.profile.pic {
+  display:block;
+  align-items: center;
+}
